@@ -1,8 +1,8 @@
-# DPS_teschnial-challenge
-Task - Vowel counter.
+# DPS_technial-challenge
+Problem statement - Vowel counter.
 Words are composed of two types of letters, vowels and consonants. For purposes of our problem, 'a', 'e', 'i', 'o', and 'u' are vowels, and all other letters are consonants. Given a String word, return the number of vowels it contains.
 
-The solution to this code done using Python proramming language.
+The solution to this code is done using Python programming language.
 
 Steps to be done :
 1. Accept the string and convert it to either lower or upper case for the ease of comparison.
